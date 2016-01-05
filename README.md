@@ -42,3 +42,7 @@ python get.py
 ## NodeJS Test Server
 
 In the *NodeJS test server* directory you will find a simple Node.js web server accepting POST requests. This is useful and recommended for developing stages to test your http requests. So just make sure your script works reliably before using the production API and do a final deploy.
+
+## Hardware Prototype
+
+ITA - [Check out](http://www.hackerstribe.com/2016/costruire-un-sismometro-digitale-con-esp8266-nodemcu-e-mpu-6050/) an example of hardware prototype where this code is now running on.
